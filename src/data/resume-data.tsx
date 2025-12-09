@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Boston, Massachusetts",
   about: "CS & Applied Math at Dartmouth College",
   summary:
-    "Studying CS and Math @ Dartmouth College. Interested in product design, machine learning, and backend eng. I love shipping fast and building meaningful solutions to problems I identify. \nCurrently building something interesting with computer vision + sports :)",
+    "Studying CS and Math @ Dartmouth College. Interested in product design, machine learning, and backend eng. I want to ship fast and build meaningful solutions to genuine problems. \nCurrently working on something interesting with computer vision + sports :)",
   avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://github.com/m4nr44j",
   resumeUrl: "/resume.pdf",
