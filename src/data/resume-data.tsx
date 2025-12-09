@@ -63,7 +63,7 @@ export const RESUME_DATA = {
       start: "Jun 2025",
       end: "Sep 2025",
       description:
-        "Modeling baseline sales with XGBoost and migrating ETL pipelines to Azure Data Factory.",
+        "Wrote an ML algorithm to model baseline sales and migrated ETL pipelines to Azure Data Factory.",
     },
     {
       company: "Dartmouth Center for Precision Health and AI",
