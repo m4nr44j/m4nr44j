@@ -258,15 +258,15 @@ export default function Page() {
           <h2 className="text-xl font-bold">Contact me</h2>
           <div className="flex flex-col gap-2 text-pretty font-mono text-sm text-muted-foreground">
             <p>
-              Want to chat? Just shoot me a dm{" "}
+              Reach out via{" "}
               <a
                 href={RESUME_DATA.contact.social[2].url}
                 className="underline hover:text-foreground"
               >
-                on X
+                X
               </a>{" "}
-              or email me directly at{" "}
-              <span className="font-bold">
+              or email directly at{" "}
+              <span className="font-bold font-mono">
                 ms [dot] 28 [at] dartmouth [dot] edu
               </span>
               .
