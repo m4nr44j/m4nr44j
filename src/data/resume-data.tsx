@@ -112,16 +112,6 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Sodacan",
-      techStack: ["Python", "Gemini API", "Snowflake", "Typer"],
-      description:
-        "CLI for transforming messy enterprise data into BI-ready insights via LLM pipelines.",
-      link: {
-        label: "Devpost",
-        href: "https://devpost.com/software/sodacan?_gl=1*a3rphl*_gcl_au*NjA2NzQyNDI2LjE3NjI1NzU0MjE.*_ga*ODkzMDgyMzA4LjE3NjI1NzU0MjI.*_ga_0YHJK3Y10M*czE3NjUyNzUzNzMkbzkkZzEkdDE3NjUyNzU0MjQkajkkbDAkaDA.",
-      },
-    },
-    {
       title: "RecruiterX",
       techStack: ["Next.js", "Supabase", "Python", "Grok API"],
       description:
@@ -129,6 +119,16 @@ export const RESUME_DATA = {
       link: {
         label: "GitHub",
         href: "https://github.com/m4nr44j",
+      },
+    },
+        {
+      title: "Sodacan",
+      techStack: ["Python", "Gemini API", "Snowflake", "Typer"],
+      description:
+        "CLI for transforming messy enterprise data into BI-ready insights via LLM pipelines.",
+      link: {
+        label: "Devpost",
+        href: "https://devpost.com/software/sodacan?_gl=1*a3rphl*_gcl_au*NjA2NzQyNDI2LjE3NjI1NzU0MjE.*_ga*ODkzMDgyMzA4LjE3NjI1NzU0MjI.*_ga_0YHJK3Y10M*czE3NjUyNzUzNzMkbzkkZzEkdDE3NjUyNzU0MjQkajkkbDAkaDA.",
       },
     },
     {
