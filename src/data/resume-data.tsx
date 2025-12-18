@@ -103,12 +103,9 @@ export const RESUME_DATA = {
     "Cooking",
     "Keyboards",
     "Prediction Markets",
-    "Call of Duty",
     "NBA",
     "NFL",
-    "Tennis",
     "Energy Drinks",
-    "Coffee"
   ],
   projects: [
     {
