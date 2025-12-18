@@ -101,7 +101,6 @@ export const RESUME_DATA = {
     "Lifting",
     "Poker",
     "Cooking",
-    "Keyboards",
     "Prediction Markets",
     "NBA",
     "NFL",
