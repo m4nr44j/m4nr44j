@@ -105,6 +105,7 @@ export const RESUME_DATA = {
     "NBA",
     "NFL",
     "Energy Drinks",
+    "Coffee"
   ],
   projects: [
     {
@@ -117,7 +118,7 @@ export const RESUME_DATA = {
         href: "https://github.com/m4nr44j",
       },
     },
-        {
+    {
       title: "Sodacan",
       techStack: ["Python", "Gemini API", "Snowflake", "Typer"],
       description:
