@@ -5,7 +5,7 @@ export const RESUME_DATA = {
   initials: "MS",
   location: "Massachusetts",
   locationLink: "https://www.google.com/maps/place/Boston, Massachusetts",
-  about: "Engineer @ Whop",
+  about: "ProductEngineer @ Whop",
   summary:
     "Engineer @ Whop \nStudying CS and Math @ Dartmouth College (On leave). Interested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution. \nCurrently building something cool on the side in computer vision + sports ;)",
   avatarUrl: "/profile.jpg",
