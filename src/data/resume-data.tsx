@@ -5,7 +5,7 @@ export const RESUME_DATA = {
   initials: "MS",
   location: "Massachusetts",
   locationLink: "https://www.google.com/maps/place/Boston, Massachusetts",
-  about: "Engineer @ Whop\nCS & Applied Math at Dartmouth College",
+  about: "Engineer @ Whop",
   summary:
     "Engineer @ Whop \nStudying CS and Math @ Dartmouth College (On leave). Interested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution. \nCurrently building something cool on the side in computer vision + sports ;)",
   avatarUrl: "/profile.jpg",
@@ -39,7 +39,7 @@ export const RESUME_DATA = {
       end: "2027",
       gpa: "3.90",
       coursework:
-        "Algorithms, Data Structures, System Design, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Microeconomics, Public Speaking, Ethics",
+        "Algorithms, Data Structures, System Design, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Microeconomics, Public Speaking",
     },
   ],
   work: [
