@@ -3,8 +3,8 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Manraaj Singh",
   initials: "MS",
-  location: "Massachusetts",
-  locationLink: "https://www.google.com/maps/place/Boston, Massachusetts",
+  location: "Palo Alto, CA",
+  locationLink: "https://www.google.com/maps/place/Palo Alto, California",
   about: "Engineer @ Whop",
   summary:
     "Product Engineer @ Whop \nStudying CS and Math @ Dartmouth College (On leave). Interested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution. \nCurrently building something cool on the side in computer vision + sports ;)",
