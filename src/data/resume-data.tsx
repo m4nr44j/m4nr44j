@@ -44,13 +44,23 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Whop",
+      link: "https://whop.com",
+      badges: [],
+      title: "AI Product Engineer",
+      logo: "/logos/whop.jpeg",
+      start: "Jan 2026",
+      end: "Present",
+      description: "Agentic workflows",
+    },
+    {
       company: "Scale AI",
       link: "https://scale.com",
       badges: [],
       title: "Technical Advisor Intern (GenAI)",
       logo: "/logos/scale.jpeg",
       start: "Mar 2025",
-      end: "Present",
+      end: "Dec 2025",
       description:
         "Authoring Olympiad-level code solutions to generate reasoning data for RLHF pipelines.",
     },
