@@ -101,7 +101,7 @@ export default function Page() {
               {paragraph}
             </p>
           ))}
-          <p className="text-pretty font-mono text-sm text-muted-foreground">
+          {/* <p className="text-pretty font-mono text-sm text-muted-foreground">
             View my{" "}
             <a
               className="resume-link underline"
@@ -110,7 +110,7 @@ export default function Page() {
             >
               resume
             </a>
-          </p>
+          </p> */}
         </Section>
 
         <Section>
