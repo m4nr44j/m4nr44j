@@ -47,7 +47,7 @@ export const RESUME_DATA = {
       company: "Whop",
       link: "https://whop.com",
       badges: [],
-      title: "AI Product Engineer",
+      title: "AI Engineer",
       logo: "/logos/whop.jpeg",
       start: "Jan 2026",
       end: "Present",
