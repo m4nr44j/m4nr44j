@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       logo: "/logos/whop.jpeg",
       start: "Jan 2026",
       end: "Present",
-      description: "Agents",
+      description: "Fraud & Commpliance",
     },
     {
       company: "Scale AI",
