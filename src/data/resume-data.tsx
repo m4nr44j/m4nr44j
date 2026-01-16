@@ -47,11 +47,11 @@ export const RESUME_DATA = {
       company: "Whop",
       link: "https://whop.com",
       badges: [],
-      title: "AI Engineer",
+      title: "Backend Engineer",
       logo: "/logos/whop.jpeg",
       start: "Jan 2026",
       end: "Present",
-      description: "Fraud & Commpliance",
+      description: "Fraud & Compliance",
     },
     {
       company: "Scale AI",
