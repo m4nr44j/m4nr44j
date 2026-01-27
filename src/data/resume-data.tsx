@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Palo Alto, California",
   about: "Engineering @ Whop",
   summary:
-    "Backend Engineer @ Whop. \n Exited Founder, Clio (Acq. by Whop)\nStudying CS & Math @ Dartmouth College (On leave). \nCurrently building something cool on the side in computer vision + sports ;) \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
+    "Engineer @ Whop. \n Exited Founder, Clio (Acq. by Whop)\nStudying CS & Math @ Dartmouth College (On leave). \nCurrently building something cool on the side in computer vision + sports ;) \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
   avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://github.com/m4nr44j",
   resumeUrl: "/resume.pdf",
@@ -47,11 +47,11 @@ export const RESUME_DATA = {
       company: "Whop",
       link: "https://whop.com",
       badges: [],
-      title: "Backend Engineer",
+      title: "Engineer",
       logo: "/logos/whop.jpeg",
       start: "Jan 2026",
       end: "Present",
-      description: "Fraud & Compliance",
+      description: "Risk",
     },
     {
       company: "Scale AI",
