@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       start: "Jun 2025",
       end: "Sep 2025",
       description:
-        "Wrote an ML algorithm to model baseline sales and migrated ETL pipelines to Azure Data Factory.",
+        "Applied ML for time-series forecasting to isolate baseline sales from promotional uplift, enabling accurate demand planning and trade spend analysis.",
     },
     {
       company: "Dartmouth Center for Precision Health and AI",
