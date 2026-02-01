@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       start: "Jun 2025",
       end: "Sep 2025",
       description:
-        "Applied ML for time-series forecasting to isolate baseline sales from promotional uplift, enabling accurate demand planning and trade spend analysis.",
+        "Applied ML for time-series forecasting to isolate baseline sales from promotional uplift",
     },
     {
       company: "Dartmouth Center for Precision Health and AI",
