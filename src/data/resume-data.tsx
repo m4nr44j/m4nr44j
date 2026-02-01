@@ -37,7 +37,7 @@ export const RESUME_DATA = {
       degree: "Bachelor of Arts in Computer Science & Mathematics",
       start: "2024",
       end: "2027",
-      gpa: "3.90",
+      gpa: "3.9",
       coursework:
         "Algorithms, Data Structures, System Design, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Microeconomics, Public Speaking",
     },
