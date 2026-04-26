@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       logo: "/logos/whop.jpeg",
       start: "Jan 2026",
       end: "Present",
-      description: "Risk",
+      description: "Building risk and fraud detection systems for Whop's payments platform.",
     },
     {
       company: "Scale AI",
@@ -62,7 +62,7 @@ export const RESUME_DATA = {
       start: "Mar 2025",
       end: "Dec 2025",
       description:
-        "Authoring Olympiad-level code solutions to generate reasoning data for RLHF pipelines.",
+        "Writing Olympiad-level code solutions to generate reasoning data for RLHF pipelines.",
     },
     {
       company: "Kenvue",
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       start: "Jun 2025",
       end: "Sep 2025",
       description:
-        "Applied ML for time-series forecasting to isolate baseline sales from promotional uplift",
+        "Built ML models for time-series forecasting to decompose baseline sales from promotional uplift, improving demand planning accuracy.",
     },
     {
       company: "Dartmouth Center for Precision Health and AI",
@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       start: "Dec 2024",
       end: "Mar 2025",
       description:
-        "Built OCR pipelines for 14k+ pathology reports and generated synthetic Q&A datasets.",
+        "Built OCR pipelines for ingesting pathology reports and fine-tuned Llama 3 to generate synthetic Q&A datasets for clinical NLP research.",
     },
     {
       company: "Khoj Gurbani Media",
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       start: "Jun 2023",
       end: "Aug 2024",
       description:
-        "Revamped mobile UX with Flutter and optimized content delivery via CloudFront.",
+        "Redesigned mobile UX in Flutter and reduced load times by migrating content delivery to CloudFront.",
     },
   ],
   skills: [
