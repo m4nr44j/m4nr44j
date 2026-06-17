@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Palo Alto, California",
   about: "Engineering @ Whop",
   summary:
-    "Engineer @ Whop. \n Exited Founder, Clio (Acq. by Whop)\nStudying CS & Math @ Dartmouth College (On leave). \nCurrently building something cool on the side in computer vision + sports ;) \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
+    "Engineer @ Whop. \n Exited Founder (Acq. by Whop)\nStudying Math @ Dartmouth College (On leave). \nCurrently building something cool on the side in computer vision + sports ;) \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
   avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://github.com/m4nr44j",
   resumeUrl: "/resume.pdf",
@@ -34,7 +34,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Dartmouth College",
-      degree: "Bachelor of Arts in Computer Science & Mathematics",
+      degree: "Bachelor of Arts in Mathematics",
       start: "2024",
       end: "2027",
       gpa: "3.9",
