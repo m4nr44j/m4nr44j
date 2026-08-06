@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Palo Alto, California",
   about: "Engineering @ Whop",
   summary:
-    "Engineer @ Whop. \n Exited Founder (Acq. by Whop)\nStudying Math @ Dartmouth College (On leave). \nCurrently building something cool on the side in computer vision + sports ;) \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
+    "Engineer @ Whop. \n Exited Founder, Clio (Acq by Whop)\nStudying Math @ Dartmouth College (On leave). \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
   avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://github.com/m4nr44j",
   resumeUrl: "/resume.pdf",
@@ -39,7 +39,7 @@ export const RESUME_DATA = {
       end: "2027",
       gpa: "3.9",
       coursework:
-        "Algorithms, Data Structures, System Design, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Microeconomics, Public Speaking",
+        "Algorithms, Data Structures, Discrete Math, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Vector Calculus, Public Speaking",
     },
   ],
   work: [
@@ -47,55 +47,61 @@ export const RESUME_DATA = {
       company: "Whop",
       link: "https://whop.com",
       badges: [],
-      title: "Backend Engineer",
+      title: "Engineer",
       logo: "/logos/whop.jpeg",
+      location: "Palo Alto, CA",
       start: "Jan 2026",
       end: "Present",
-      description: "Building risk and fraud detection systems for Whop's payments platform.",
+      description:
+        "Building fraud and risk systems for Whop's payments platform.",
     },
     {
       company: "Scale AI",
       link: "https://scale.com",
-      badges: [],
-      title: "Technical Advisor Intern (GenAI)",
+      badges: ["Intern"],
+      title: "Engineer",
       logo: "/logos/scale.jpeg",
-      start: "Mar 2025",
+      location: "San Francisco, California",
+      start: "Sep 2025",
       end: "Dec 2025",
       description:
-        "Writing Olympiad-level code solutions to generate reasoning data for RLHF pipelines.",
+        "Built evals to test how well frontier models use tools and where they fail.",
     },
     {
       company: "Kenvue",
       link: "https://www.kenvue.com",
-      badges: [],
-      title: "ML Engineer Intern",
+      badges: ["Intern"],
+      title: "Engineer",
       logo: "/logos/kenvue.png",
+      location: "Summit, NJ",
       start: "Jun 2025",
       end: "Sep 2025",
       description:
-        "Built ML models for time-series forecasting to decompose baseline sales from promotional uplift, improving demand planning accuracy.",
+        "Built models that forecast profit per ad campaign for Neutrogena, Aveeno, and OGX.",
     },
     {
-      company: "Dartmouth Center for Precision Health and AI",
+      company: "Geisel School of Medicine at Dartmouth",
       link: "https://c-phai.org",
-      badges: [],
-      title: "Data Engineer Intern",
+      badges: ["Part-time"],
+      title: "Researcher",
       logo: "/logos/geisel.jpg",
-      start: "Dec 2024",
+      location: "Hanover, NH",
+      start: "Jan 2025",
       end: "Mar 2025",
       description:
-        "Built OCR pipelines for ingesting pathology reports and fine-tuned Llama 3 to generate synthetic Q&A datasets for clinical NLP research.",
+        "Created a dataset from raw pathology reports for fine-tuning a clinical pathology model.",
     },
     {
-      company: "Khoj Gurbani Media",
+      company: "KhojGurbani",
       link: "https://khojgurbani.org",
-      badges: [],
-      title: "Software Engineer",
+      badges: ["Part-time"],
+      title: "Engineer",
       logo: "/logos/khoj.png",
+      location: "Boston, MA",
       start: "Jun 2023",
       end: "Aug 2024",
       description:
-        "Redesigned mobile UX in Flutter and reduced load times by migrating content delivery to CloudFront.",
+        "Rebuilt the mobile app end-to-end in Flutter, shipping a faster, redesigned experience to thousands of users.",
     },
   ],
   skills: [
@@ -115,7 +121,7 @@ export const RESUME_DATA = {
     "NBA",
     "NFL",
     "Energy Drinks",
-    "Coffee"
+    "Matcha"
   ],
   projects: [
     {
@@ -124,8 +130,8 @@ export const RESUME_DATA = {
       description:
         "Scoring engineers on X/Twitter using 8-signal analysis to source exceptional talent.",
       link: {
-        label: "GitHub",
-        href: "https://github.com/m4nr44j",
+        label: "X",
+        href: "https://x.com/SpaceXAI/status/1997875234796691460?s=20",
       },
     },
     {

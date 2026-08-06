@@ -163,26 +163,29 @@ export default function Page() {
                           {work.company}
                         </a>
 
-                        <span className="inline-flex gap-x-2">
-                          {work.badges.map((badge) => (
-                            <Badge
-                              variant="secondary"
-                              className="mx-3 align-middle text-xs"
-                              key={badge}
-                            >
-                              {badge}
-                            </Badge>
-                          ))}
-                        </span>
                       </h3>
-                      <div className="text-sm tabular-nums">
+                      <div className="text-sm tabular-nums text-gray-500">
                         {work.start} - {work.end}
                       </div>
                     </div>
 
-                    <h4 className="font-mono text-sm leading-none">
+                    <h4 className="inline-flex items-center gap-x-1.5 font-mono text-sm leading-none">
                       {work.title}
+                      {work.badges.map((badge) => (
+                        <Badge
+                          variant="secondary"
+                          className="px-1.5 py-px text-[11px]"
+                          key={badge}
+                        >
+                          {badge}
+                        </Badge>
+                      ))}
                     </h4>
+                    {"location" in work && work.location ? (
+                      <p className="mt-1 font-mono text-xs leading-none text-muted-foreground">
+                        {work.location}
+                      </p>
+                    ) : null}
                   </CardHeader>
                   <CardContent className="mt-2 text-xs">
                     {work.description}
