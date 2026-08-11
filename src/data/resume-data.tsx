@@ -35,8 +35,6 @@ export const RESUME_DATA = {
     {
       school: "Dartmouth College",
       degree: "Bachelor of Arts in Mathematics",
-      start: "2024",
-      end: "2027",
       gpa: "3.9",
       coursework:
         "Algorithms, Data Structures, Discrete Math, Math for Machine Learning, Computer Vision, Linear Algebra, Probability, Linear Models, Vector Calculus, Public Speaking",
