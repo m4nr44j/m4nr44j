@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Palo Alto, California",
   about: "Engineering @ Whop",
   summary:
-    "Engineer @ Whop. \n Exited Founder, Clio (Acq by Whop)\nStudying Math @ Dartmouth College (On leave). \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
+    "Engineer @ Whop. \n Exited Founder (Acq by Whop)\nStudying Math @ Dartmouth College (On leave). \nInterested in product design, machine learning, and backend eng. I ship fast and can take ideas to execution.",
   avatarUrl: "/profile.jpg",
   personalWebsiteUrl: "https://github.com/m4nr44j",
   resumeUrl: "/resume.pdf",
